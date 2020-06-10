@@ -1,0 +1,6 @@
+framework module Pods_Pay_Tabs_Pay_TabsUITests {
+  umbrella header "Pods-Pay_Tabs-Pay_TabsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
